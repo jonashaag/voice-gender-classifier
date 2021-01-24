@@ -1,0 +1,12 @@
+# For both:
+julius
+scipy
+soundfile
+
+# For inference only:
+onnxruntime
+
+# For training only:
+librosa
+pytorch-lightning>=1
+pandas
